@@ -20,5 +20,5 @@ Used Google Maps APIs to get exact location coordinates
 # Features
 Alert message, Send location
 
-#Future improvements
+# Future improvements
 Call - IVRS feature to be implemented!!
