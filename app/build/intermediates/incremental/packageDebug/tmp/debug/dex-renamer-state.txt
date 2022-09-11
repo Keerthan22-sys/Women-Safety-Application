@@ -1,0 +1,4 @@
+#Sat Jun 25 14:10:54 IST 2022
+base.0=/Users/keerthangowdas/Downloads/Women-Safety-App-Android-Project-Source-Code-master/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
